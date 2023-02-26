@@ -1,5 +1,4 @@
 #!/bin/sh
-sudo apt-get -y update && sudo apt-get -y upgrade && sudo apt -y update && sudo apt -y upgrade &&
 sudo apt-get -y install apache2 &&
 sudo apt-get -y update && sudo apt-get -y upgrade && sudo apt -y update && sudo apt -y upgrade &&
 sudo add-apt-repository -y ppa:ondrej/php &&
