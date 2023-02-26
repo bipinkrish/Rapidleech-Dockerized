@@ -70,11 +70,10 @@ $options = array (
     7 => '.asp',
     8 => '.aspx',
     9 => '.cgi',
-    10 => '.bin',
   ),
-  'forbidden_filetypes_block' => true,
+  'forbidden_filetypes_block' => false,
   'rename_these_filetypes_to' => '.xxx',
-  'check_these_before_unzipping' => true,
+  'check_these_before_unzipping' => false,
   'fgc' => 0,
 ); 
 
